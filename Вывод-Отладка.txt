@@ -1,0 +1,14 @@
+﻿"lab1.exe" (Win32). Загружено "C:\Users\ACER\source\repos\lab1\Debug\lab1.exe". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Символы загружены.
+Поток 0x17c0 завершился с кодом 0 (0x0).
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". Символы загружены.
+"lab1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". Символы загружены.
+Поток 0x2594 завершился с кодом 0 (0x0).
+Поток 0x2e10 завершился с кодом 0 (0x0).
+Программа "[9800] lab1.exe" завершилась с кодом 0 (0x0).
