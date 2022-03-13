@@ -28,7 +28,7 @@ int main()
     float averages[8];
     int k[8];
     char empty[1];
-    Student st[18];
+    Student st[8];
     ifstream fin;
     int b,v; float d;
     fin.open("TextFile3.txt");
@@ -51,7 +51,7 @@ int main()
         k[b] = b;cout <<st[b].name<<" : "<< averages[b] << endl ;//вывод масива средних оценок студентов
     }
     //упорядочение массива средних оценок
-    for (v = 0; v < 2; v++) {
+    for (v = 0; v < 2; v++) {//2 итерации достаточно для упорядочения
         
         for (b = 0; b < 7; b++) {
             
